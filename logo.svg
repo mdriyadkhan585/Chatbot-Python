@@ -1,0 +1,22 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="150" cy="150" r="140" fill="#4A90E2"/>
+
+  <!-- Chat Bubble -->
+  <rect x="80" y="80" width="140" height="80" rx="15" ry="15" fill="#FFFFFF"/>
+  <polygon points="150,160 160,140 170,160" fill="#FFFFFF"/>
+
+  <!-- Chatbot Face -->
+  <circle cx="115" cy="120" r="10" fill="#4A90E2"/>
+  <circle cx="185" cy="120" r="10" fill="#4A90E2"/>
+  <path d="M125,150 Q150,170 175,150" stroke="#4A90E2" stroke-width="5" fill="transparent"/>
+
+  <!-- Title Text -->
+  <text x="150" y="250" font-family="Arial, sans-serif" font-size="24" fill="#FFFFFF" text-anchor="middle">
+    Chatbot
+  </text>
+  
+  <!-- Decorative Elements -->
+  <circle cx="150" cy="150" r="100" stroke="#FFFFFF" stroke-width="5" fill="none"/>
+  <line x1="100" y1="200" x2="200" y2="200" stroke="#FFFFFF" stroke-width="5"/>
+</svg>
